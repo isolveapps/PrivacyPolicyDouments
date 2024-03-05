@@ -21,6 +21,14 @@ App uses phone number for login purpose.
 1. We want to inform you that we may require you to capture and transmit Patient / Client documents and images to establish that you are compliant as per company policy.
 2. We want to inform you that we may require you to capture and transmit Test Requesting form, Batch Sheet for Pre-Registration Process.
 
+**SMS**
+
+App uses OTP authentication for login &amp; payment. This feature is essential for enhancing your experience and providing you with authenticated login &amp; payment.
+
+**Location**
+
+App uses location permissions to enhance your experience and provide you with way points and route visibility.
+
 **Log Data**
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
